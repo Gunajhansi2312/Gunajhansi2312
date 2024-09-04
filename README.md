@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guna Jhansi
-- 👀 I’m interested in Analyst porfile
+- 👀 I’m Interested in Analyst porfile
 - 🌱 I’m currently learning SQL,Excel,Power BI
   
 - 💞️ I believe we could create something impactful by working together. I'm currently exploring collaboration opportunities and would love to hear your thoughts on potential projects we could undertake together."
